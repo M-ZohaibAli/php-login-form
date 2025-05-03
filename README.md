@@ -19,12 +19,6 @@ A clean, responsive login and signup form built using **PHP**, **HTML**, and **C
 
 - [Features](#-features)
 - [Screenshots](#-screenshots)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Demo Credentials](#-demo-credentials)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ---
 
 ## 🌟 Features
